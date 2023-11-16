@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Inlp+8TwaPZNrCimVHct84yEuGNlbT7I0BMUofL3Dy+7vsfOD1Rzh7pig/CiY/QFhDEyZd4d2pquduQneHv6Qg==",
+  "success": true,
+  "projectFilePath": "/home/jonas/Projects-NET/Numerical-methods-fs/src/Numerical-differentiation/Numerical-differentiation.fsproj",
+  "expectedPackageFiles": [
+    "/home/jonas/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

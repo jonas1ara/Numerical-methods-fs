@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/jonas/Projects-NET/Numerical-methods-fs/src/Numerical-differentiation/Numerical-differentiation.fsproj": {}
+  },
+  "projects": {
+    "/home/jonas/Projects-NET/Numerical-methods-fs/src/Numerical-differentiation/Numerical-differentiation.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jonas/Projects-NET/Numerical-methods-fs/src/Numerical-differentiation/Numerical-differentiation.fsproj",
+        "projectName": "Numerical-differentiation",
+        "projectPath": "/home/jonas/Projects-NET/Numerical-methods-fs/src/Numerical-differentiation/Numerical-differentiation.fsproj",
+        "packagesPath": "/home/jonas/.nuget/packages/",
+        "outputPath": "/home/jonas/Projects-NET/Numerical-methods-fs/src/Numerical-differentiation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jonas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/sdk/7.0.114/FSharp/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
