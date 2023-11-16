@@ -1,5 +1,7 @@
 # Numerical methods using fsharp
 
+## This repository provides a brief overview of some common numerical methods used in scientific computing and mathematical problem solving, implemented in the F# functional language.
+
 ![VG using F#](./img/VG.jpeg)
 _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
