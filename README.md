@@ -5,6 +5,10 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 ## Methods
 
+### Numerical differentation
+
+- Numerical differentiation is a technique used to approximate the derivative of a function at a specific point by employing finite differences. 
+
 ### Newton-Raphson Method
 
 - Used to find roots of nonlinear equations.
