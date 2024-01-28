@@ -35,6 +35,8 @@ let luDecomposition (matrix: float[][]) =
     lower, upper
 
 let coefficients = [|[|2.0; 1.0; -1.0|]; [|1.0; 1.0; 1.0|]; [|1.0; -1.0; 2.0|]|]
+printfn "Coefficients:"
+printMatrix coefficients
 
 
 let lower, upper = luDecomposition coefficients
