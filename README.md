@@ -5,33 +5,60 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 ## Methods
 
-### Numerical differentation
-
-- Numerical differentiation is a technique used to approximate the derivative of a function at a specific point by employing finite differences. 
-
-### Newton-Raphson Method
-
-- Used to find roots of nonlinear equations.
-
 ### Bisection Method
 
 - Another technique to find roots of equations, especially useful when working with continuous functions on closed intervals.
 
-### Interpolation and Regression
+### Newton-Raphson Method
 
-- Techniques to estimate intermediate values between known data points (interpolation) or to fit a curve to a dataset (regression).
+- Used to find roots of nonlinear equations. It is a popular technique for solving optimization problems.
 
-### Euler's Method and Runge-Kutta Methods
+### Numerical differentation
 
-- Used to solve ordinary differential equations, which model changes in variables over time.
+- Numerical differentiation is a technique used to approximate the derivative of a function at a specific point by employing finite differences. 
+
+### Numerical integration (Rectangle rule)
+
+- The rectangle rule is the simplest method of approximating the value of a definite integral. It approximates the region under the graph of the function `f(x)` as a single rectangle.
+
+### Numerical integration (Trapezoidal rule)
+
+- The trapezoidal rule is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a trapezoid and calculating its area.
+
+### Numerical integration (Simpson's rule)
+
+- Simpson's rule is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of parabolic curves and calculating their areas.
+
+### Jacobi Method 
+
+- Iterative methods for solving systems of linear equations.
+
+### Gauss-Seidel Method
+
+- Iterative methods for solving systems of linear equations.
+
+### Gaussian Elimination
+
+- Used to solve systems of linear equations, especially useful for large matrices.
 
 ### LU Decomposition
 
 - Used to solve systems of linear equations, especially useful for large matrices.
 
-### Jacobi Method and Gauss-Seidel Method
+### Euler's Method
 
-- Iterative methods for solving systems of linear equations.
+- Used to solve ordinary differential equations, which model changes in variables over time.
+
+### Runge-Kutta Methods
+
+- A family of methods for solving ordinary differential equations and systems of differential equations.
+
+### Interpolation and Regression
+
+- Techniques to estimate intermediate values between known data points (interpolation) or to fit a curve to a dataset (regression).
+
+
+
 
 ### Singular Value Decomposition (SVD)
 
