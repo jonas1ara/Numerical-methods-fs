@@ -5,31 +5,31 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 ## Methods
 
-### Bisection Method
+### [x] Bisection Method
 
 - Another technique to find roots of equations, especially useful when working with continuous functions on closed intervals.
 
-### Newton-Raphson Method
+### [x] Newton-Raphson Method
 
 - Used to find roots of nonlinear equations. It is a popular technique for solving optimization problems.
 
-### Numerical differentation
+### [x] Numerical differentation
 
 - Numerical differentiation is a technique used to approximate the derivative of a function at a specific point by employing finite differences. 
 
-### Numerical integration (Rectangle rule)
+### [x] Numerical integration (Rectangle rule)
 
 - The rectangle rule is the simplest method of approximating the value of a definite integral. It approximates the region under the graph of the function `f(x)` as a single rectangle.
 
-### Numerical integration (Trapezoidal rule)
+### [x] Numerical integration (Trapezoidal rule)
 
 - The trapezoidal rule is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a trapezoid and calculating its area.
 
-### Numerical integration (Simpson's rule)
+### [x] Numerical integration (Simpson's rule)
 
 - Simpson's rule is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of parabolic curves and calculating their areas.
 
-### Numerical integration (Monte Carlo)
+### [x] Numerical integration (Monte Carlo)
 
 - Monte Carlo integration is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of random points and calculating their areas.
 
@@ -41,11 +41,11 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Iterative methods for solving systems of linear equations.
 
-### Gaussian Elimination
+### [x] Gaussian Elimination
 
 - Used to solve systems of linear equations, especially useful for large matrices.
 
-### LU Decomposition
+### [x] LU Decomposition
 
 - Used to solve systems of linear equations, especially useful for large matrices.
 
