@@ -33,11 +33,11 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Monte Carlo integration is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of random points and calculating their areas.
 
-### Jacobi Method 
+### [] Jacobi Method 
 
 - Iterative methods for solving systems of linear equations.
 
-### Gauss-Seidel Method
+### [] Gauss-Seidel Method
 
 - Iterative methods for solving systems of linear equations.
 
@@ -49,35 +49,35 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Used to solve systems of linear equations, especially useful for large matrices.
 
-### Singular Value Decomposition (SVD)
+### [] Singular Value Decomposition (SVD)
 
 - Used in linear algebra to factorize matrices into products of simple matrices and is fundamental in techniques like dimensionality reduction.
 
-### Euler's Method
+### [] Euler's Method
 
 - Used to solve ordinary differential equations, which model changes in variables over time.
 
-### Runge-Kutta Methods
+### [] Runge-Kutta Methods
 
 - A family of methods for solving ordinary differential equations and systems of differential equations.
 
-### Interpolation and Regression
+### [] Interpolation and Regression
 
 - Techniques to estimate intermediate values between known data points (interpolation) or to fit a curve to a dataset (regression).
 
-### Monte Carlo Method
+### [] Monte Carlo Method
 
 - A statistical-numerical approach for simulation and problem-solving through the generation of random numbers.
 
-### Fourier Transform
+### [] Fourier Transform
 
 - Used to transform signals between the time domain and the frequency domain, essential in signal processing and dynamic systems analysis.
 
-### Finite Element Method
+### [] Finite Element Method
 
 - Used to solve engineering and physics problems, especially for structural and thermal analysis.
 
-### Optimization Methods
+### [] Optimization Methods
 
 - Include techniques like gradient descent to find minima or maxima of functions.
 
