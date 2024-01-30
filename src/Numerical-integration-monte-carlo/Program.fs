@@ -12,11 +12,10 @@ let monteCarloIntegration (f: float -> float) (a: float) (b: float) (n: int) =
     let integral = average * (b - a)
     integral
 
-// Ejemplo de uso
 let f x = sin x
 let a = 0.0
 let b = 1.0
-let n = 1000000 // 
+let n = 1000000 // Numbers of random points 
 
 let integral = monteCarloIntegration f a b n
 
