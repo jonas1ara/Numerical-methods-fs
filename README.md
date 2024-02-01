@@ -33,7 +33,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Monte Carlo integration is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of random points and calculating their areas.
 
-### [] Jacobi Method 
+### [x] Jacobi Method 
 
 - Iterative methods for solving systems of linear equations.
 
