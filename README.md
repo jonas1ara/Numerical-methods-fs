@@ -37,7 +37,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Iterative methods for solving systems of linear equations.
 
-### [] Gauss-Seidel Method
+### [x] Gauss-Seidel Method
 
 - Iterative methods for solving systems of linear equations.
 
