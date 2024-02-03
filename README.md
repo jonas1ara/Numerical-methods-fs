@@ -49,7 +49,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Used to solve systems of linear equations, especially useful for large matrices.
 
-### [] Singular Value Decomposition (SVD)
+### [x] Singular Value Decomposition (SVD)
 
 - Used in linear algebra to factorize matrices into products of simple matrices and is fundamental in techniques like dimensionality reduction.
 
