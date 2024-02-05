@@ -57,7 +57,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Used to solve ordinary differential equations, which model changes in variables over time.
 
-### [] Runge-Kutta Methods
+### [x] Runge-Kutta Methods
 
 - A family of methods for solving ordinary differential equations and systems of differential equations.
 
