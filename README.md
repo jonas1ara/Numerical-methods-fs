@@ -61,7 +61,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - A family of methods for solving ordinary differential equations and systems of differential equations.
 
-### [] Interpolation and Regression
+### [] Interpolation linear and Regression
 
 - Techniques to estimate intermediate values between known data points (interpolation) or to fit a curve to a dataset (regression).
 
