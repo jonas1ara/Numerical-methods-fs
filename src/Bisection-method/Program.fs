@@ -15,7 +15,7 @@ let rec bisection (f: float -> float) (a: float) (b: float) =
         else
             bisection f c b
 
-let f x = x * x - 2.0 // Función de ejemplo: x^2 - 2
+let f x = x * x - 2.0 // Function to find the root of x^2 - 2
 let a = 1.0
 let b = 2.0
 let root = bisection f a b
