@@ -1,6 +1,6 @@
 ﻿open System
 
-// Minimum square method
+// Minimum squares method
 let linearRegression (xValues: float[]) (yValues: float[]) =
     let n = float xValues.Length
     let sumX = Array.sum xValues
