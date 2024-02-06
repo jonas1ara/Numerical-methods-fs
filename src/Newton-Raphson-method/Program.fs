@@ -1,4 +1,6 @@
-﻿let newtonRaphson (f: float -> float) (df: float -> float) (x0: float) (tol: float) (maxIter: int) =
+﻿open System
+
+let newtonRaphson (f: float -> float) (df: float -> float) (x0: float) (tol: float) (maxIter: int) =
     let rec loop (x: float) (iter: int) =
         let fx = f x
         let dfx = df x
