@@ -81,10 +81,6 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Used to transform signals between the time domain and the frequency domain, essential in signal processing and dynamic systems analysis.
 
-### [] Finite Element Method
-
-- Used to solve engineering and physics problems, especially for structural and thermal analysis.
-
 ### [] Optimization Methods
 
 - Include techniques like gradient descent to find minima or maxima of functions.
