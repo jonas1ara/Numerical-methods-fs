@@ -3,7 +3,9 @@
 ![VG using F#](./img/VG.jpeg)
 _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
-## Methods
+# Methods
+
+## Calculus:
 
 ### [x] Bisection Method
 
@@ -33,6 +35,8 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Monte Carlo integration is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of random points and calculating their areas.
 
+## Linear algebra:
+
 ### [x] Jacobi Method 
 
 - Iterative methods for solving systems of linear equations.
@@ -53,6 +57,8 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Used in linear algebra to factorize matrices into products of simple matrices and is fundamental in techniques like dimensionality reduction.
 
+## Differential equations:
+
 ### [x] Euler's Method
 
 - Used to solve ordinary differential equations, which model changes in variables over time.
@@ -60,6 +66,8 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 ### [x] Runge-Kutta Methods
 
 - A family of methods for solving ordinary differential equations and systems of differential equations.
+
+## Probability and statistics:
 
 ### [x] Linear interpolation 
 
@@ -77,13 +85,15 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - A statistical-numerical approach for simulation and problem-solving through the generation of random numbers for approximating the value of π.
 
+## Optimization:
+
 ### [x] Fourier Transform
 
 - Used to transform signals between the time domain and the frequency domain, essential in signal processing and dynamic systems analysis.
 
-### [x] Optimization Methods
+### [x] Gradient descent
 
-- Include techniques like gradient descent to find minima or maxima of functions.
+- Gradient descent to find minima or maxima of functions.
 
 ## Contributions
 
