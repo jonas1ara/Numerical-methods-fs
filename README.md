@@ -77,11 +77,11 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - A statistical-numerical approach for simulation and problem-solving through the generation of random numbers for approximating the value of π.
 
-### [] Fourier Transform
+### [x] Fourier Transform
 
 - Used to transform signals between the time domain and the frequency domain, essential in signal processing and dynamic systems analysis.
 
-### [] Optimization Methods
+### [x] Optimization Methods
 
 - Include techniques like gradient descent to find minima or maxima of functions.
 
