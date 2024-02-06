@@ -69,13 +69,13 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Techniques to estimate intermediate values between known data points (interpolation) or to fit a curve to a dataset (regression).
 
-### [] Monte Carlo Method integration
+### [x] Monte Carlo Method integration
 
-- A statistical-numerical approach for simulation and problem-solving through the generation of random numbers.
+- A statistical-numerical approach for simulation and problem-solving through the generation of random numbers for integration.
 
-### [] Monte Carlo Method PI
+### [x] Monte Carlo Method PI
 
-- A statistical-numerical approach for simulation and problem-solving through the generation of random numbers.
+- A statistical-numerical approach for simulation and problem-solving through the generation of random numbers for approximating the value of π.
 
 ### [] Fourier Transform
 
