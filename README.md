@@ -53,10 +53,6 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Used to solve systems of linear equations, especially useful for large matrices.
 
-### [x] Singular Value Decomposition (SVD)
-
-- Used in linear algebra to factorize matrices into products of simple matrices and is fundamental in techniques like dimensionality reduction.
-
 ## Differential equations:
 
 ### [x] Euler's Method
@@ -79,7 +75,8 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 ### [x] Monte Carlo Method integration
 
-- A statistical-numerical approach for simulation and problem-solving through the generation of random numbers for integration.
+- A statistical-numerical approach for simulation and problem-solving through the generation of random numbers for integration. Monte Carlo integration is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of random points and calculating their areas.
+
 
 ### [x] Monte Carlo Method PI
 
