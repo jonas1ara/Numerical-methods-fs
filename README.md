@@ -95,6 +95,6 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Gradient descent to find minima or maxima of functions.
 
-## Contributions
+# Contributions
 
-Feel free to contribute! If you have additional methods you'd like to add or improve existing descriptions, create a pull request, and I'll be happy to review it.
+Feel free to contribute! If you have additional methods you'd like to add or improve existing descriptions, create a pull request, and I'll be happy to review it but try to keep your solution in the programming style of F#.
