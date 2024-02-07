@@ -13,4 +13,4 @@ let b = 1.0
 let n = 100
 let integral = trapezoidalRule f a b n
 
-printfn "The numerical integral of sin(x) from %f to %f is approximately %f" a b integral
+printfn "The numerical integral of sin(x) from %f to %f using trapezoidal rule is approximately %f" a b integral
