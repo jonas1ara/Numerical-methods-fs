@@ -1,6 +1,7 @@
 ﻿open System
 
-// Función para resolver una ecuación diferencial ordinaria (EDO) usando el método de Runge-Kutta de cuarto orden
+// Function for solving an ordinary differential equation (EDO) using the fourth-order Runge–Kutta method
+
 let rungeKutta4Method (f: float -> float -> float) (x0: float) (y0: float) (xf: float) (h: float) =
     let mutable x = x0
     let mutable y = y0
@@ -17,7 +18,7 @@ let rungeKutta4Method (f: float -> float -> float) (x0: float) (y0: float) (xf: 
 
     values |> List.rev
 
-// Ejemplo de uso: resolver la ecuación diferencial y' = -2 * y, con y(0) = 1, en el intervalo [0, 2] con paso h = 0.1
+// Example: Solve the ordinary differential equation (EDO) y' = -2y, y(0) = 1, for x in [0, 2] with step size h = 0.1
 let f x y = -2.0 * y
 let x0 = 0.0
 let y0 = 1.0
