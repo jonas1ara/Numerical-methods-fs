@@ -1,5 +1,7 @@
 ﻿open System
 
+// Function for solving an ordinary differential equation (EDO) using the Euler method
+
 let eulerMethod (f: float -> float -> float) (x0: float) (y0: float) (xf: float) (h: float) =
     let mutable x = x0
     let mutable y = y0
@@ -12,6 +14,8 @@ let eulerMethod (f: float -> float -> float) (x0: float) (y0: float) (xf: float)
         x <- x + h
 
     values |> List.rev
+
+// Example: Solve the ordinary differential equation (EDO) y' = -2y, y(0) = 1, for x in [0, 2] with step size h = 0.1
 
 let f x y = -2.0 * y
 let x0 = 0.0
