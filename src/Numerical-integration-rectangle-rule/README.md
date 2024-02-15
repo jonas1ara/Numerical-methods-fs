@@ -1,1 +1,1 @@
-a
+# Numerical integration rectangle rule
