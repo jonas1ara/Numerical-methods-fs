@@ -19,21 +19,17 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Numerical differentiation is a technique used to approximate the derivative of a function at a specific point by employing finite differences. 
 
-### [] Numerical integration (Rectangle rule)
+### [x] Numerical integration (Rectangle rule)
 
 - The rectangle rule is the simplest method of approximating the value of a definite integral. It approximates the region under the graph of the function `f(x)` as a single rectangle.
 
-### [] Numerical integration (Trapezoidal rule)
+### [x] Numerical integration (Trapezoidal rule)
 
 - The trapezoidal rule is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a trapezoid and calculating its area.
 
-### [] Numerical integration (Simpson's rule)
+### [x] Numerical integration (Simpson's rule)
 
 - Simpson's rule is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of parabolic curves and calculating their areas.
-
-### [] Numerical integration (Monte Carlo)
-
-- Monte Carlo integration is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of random points and calculating their areas.
 
 ## Linear algebra:
 
