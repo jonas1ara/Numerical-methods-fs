@@ -1,6 +1,6 @@
 # Jacobi method
 
-![Jacobi](https://wikimedia.org/api/rest_v1/media/math/render/svg/98608e9e95d5acad149813eca75c8108acec308a)
+![Jacobi](https://wikimedia.org/api/rest_v1/media/math/render/svg/11305905ed1640125a950a58c80f02956440f83c)
 
 ## Introduction
 This repository contains an implementation of the Jacobi Method in the F# programming language. The Jacobi Method is an iterative technique used to solve a system of linear equations, particularly when the matrix of the system is diagonally dominant. It iteratively improves an initial guess to approximate the solution.
