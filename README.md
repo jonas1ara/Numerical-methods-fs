@@ -19,76 +19,76 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Numerical differentiation is a technique used to approximate the derivative of a function at a specific point by employing finite differences. 
 
-### [x] Numerical integration (Rectangle rule)
+### [] Numerical integration (Rectangle rule)
 
 - The rectangle rule is the simplest method of approximating the value of a definite integral. It approximates the region under the graph of the function `f(x)` as a single rectangle.
 
-### [x] Numerical integration (Trapezoidal rule)
+### [] Numerical integration (Trapezoidal rule)
 
 - The trapezoidal rule is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a trapezoid and calculating its area.
 
-### [x] Numerical integration (Simpson's rule)
+### [] Numerical integration (Simpson's rule)
 
 - Simpson's rule is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of parabolic curves and calculating their areas.
 
-### [x] Numerical integration (Monte Carlo)
+### [] Numerical integration (Monte Carlo)
 
 - Monte Carlo integration is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of random points and calculating their areas.
 
 ## Linear algebra:
 
-### [x] Jacobi Method 
+### [] Jacobi Method 
 
 - Iterative methods for solving systems of linear equations.
 
-### [x] Gauss-Seidel Method
+### [] Gauss-Seidel Method
 
 - Iterative methods for solving systems of linear equations.
 
-### [x] Gaussian Elimination
+### [] Gaussian Elimination
 
 - Used to solve systems of linear equations, especially useful for large matrices.
 
-### [x] LU Decomposition
+### [] LU Decomposition
 
 - Used to solve systems of linear equations, especially useful for large matrices.
 
 ## Differential equations:
 
-### [x] Euler's Method
+### [] Euler's Method
 
 - Used to solve ordinary differential equations, which model changes in variables over time.
 
-### [x] Runge-Kutta Methods
+### [] Runge-Kutta Methods
 
 - A family of methods for solving ordinary differential equations and systems of differential equations.
 
 ## Probability and statistics:
 
-### [x] Linear interpolation 
+### [] Linear interpolation 
 
 - Techniques to estimate intermediate values between known data points (interpolation) or to fit a curve to a dataset (regression).
 
-### [x]  Linear regression 
+### []  Linear regression 
 
 - Techniques to estimate intermediate values between known data points (interpolation) or to fit a curve to a dataset (regression).
 
-### [x] Monte Carlo Method integration
+### [] Monte Carlo Method integration
 
 - A statistical-numerical approach for simulation and problem-solving through the generation of random numbers for integration. Monte Carlo integration is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of random points and calculating their areas.
 
 
-### [x] Monte Carlo Method PI
+### [] Monte Carlo Method PI
 
 - A statistical-numerical approach for simulation and problem-solving through the generation of random numbers for approximating the value of π.
 
 ## Optimization:
 
-### [x] Fourier Transform
+### [] Fourier Transform
 
 - Used to transform signals between the time domain and the frequency domain, essential in signal processing and dynamic systems analysis.
 
-### [x] Gradient descent
+### [] Gradient descent
 
 - Gradient descent to find minima or maxima of functions.
 
