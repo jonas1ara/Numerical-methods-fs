@@ -51,21 +51,21 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 ## Differential equations:
 
-### [] Euler's Method
+### [x] Euler's Method
 
 - Used to solve ordinary differential equations, which model changes in variables over time.
 
-### [] Runge-Kutta Methods
+### [x] Runge-Kutta Methods
 
 - A family of methods for solving ordinary differential equations and systems of differential equations.
 
 ## Probability and statistics:
 
-### [] Linear interpolation 
+### [x] Linear interpolation 
 
 - Techniques to estimate intermediate values between known data points (interpolation) or to fit a curve to a dataset (regression).
 
-### []  Linear regression 
+### [x]  Linear regression 
 
 - Techniques to estimate intermediate values between known data points (interpolation) or to fit a curve to a dataset (regression).
 
