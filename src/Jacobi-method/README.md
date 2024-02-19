@@ -1,6 +1,6 @@
 # Jacobi method
 
-![](https://upload.wikimedia.org/wikipedia/commons/4/4e/Jacobi_method_illustration.svg)
+![Jacobi](https://wikimedia.org/api/rest_v1/media/math/render/svg/98608e9e95d5acad149813eca75c8108acec308a)
 
 ## Introduction
 This repository contains an implementation of the Jacobi Method in the F# programming language. The Jacobi Method is an iterative technique used to solve a system of linear equations, particularly when the matrix of the system is diagonally dominant. It iteratively improves an initial guess to approximate the solution.
@@ -73,12 +73,14 @@ printVector solution
 
 In this example, the code solves the following system of linear equations using the Jacobi Method:
 
-
-\begin{eqnarray} 2x + y = 1 \\ x + y = 4 \\ x+y+z=6 \end{eqnarray}
-
+$10x_1 + 2x_2 + x_3 = 7$ \
+$x_1 + 5x_2 + x_3 = -8$ \
+$2x_1 + 3x_2 + 10x_3 = 6$
 
 The output provides the solution to the system of equations.
 
+## References
 
+Jeffrey Chasnov. (2021b, febrero 10). Jacobi, Gauss-Seidel and SOR Methods | Lecture 66 | Numerical Methods for Engineers [Video]. YouTube. https://www.youtube.com/watch?v=QpzOttega9s
 
 
