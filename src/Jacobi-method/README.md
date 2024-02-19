@@ -73,14 +73,12 @@ printVector solution
 
 In this example, the code solves the following system of linear equations using the Jacobi Method:
 
-\[
-\begin{align*}
-10x_1 + 2x_2 + x_3 &= 7 \\
-x_1 + 5x_2 + x_3 &= -8 \\
-2x_1 + 3x_2 + 10x_3 &= 6 \\
-\end{align*}
-\]
+
+\begin{eqnarray} 2x + y = 1 \\ x + y = 4 \\ x+y+z=6 \end{eqnarray}
+
 
 The output provides the solution to the system of equations.
+
+
 
 
