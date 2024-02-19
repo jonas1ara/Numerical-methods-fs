@@ -1,5 +1,7 @@
 # Numerical Integration (Rectangle Rule) README
 
+![Rectangle rule](https://images.saymedia-content.com/.image/t_share/MTc0NjM5NzMxNjM5MjY1MjI1/how-to-understand-calculus-a-beginners-guide-to-integration.jpg)
+
 ## Introduction
 This repository contains an implementation of Numerical Integration using the Rectangle Rule in the F# programming language. Numerical integration, also known as numerical quadrature, is a technique to approximate the definite integral of a function over a specified interval. The Rectangle Rule is a simple method where the area under the curve is approximated by dividing the interval into subintervals and using rectangles to approximate the area.
 
