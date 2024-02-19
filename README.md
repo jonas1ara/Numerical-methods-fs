@@ -33,19 +33,19 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 ## Linear algebra:
 
-### [] Jacobi Method 
+### [x] Jacobi Method 
 
 - Iterative methods for solving systems of linear equations.
 
-### [] Gauss-Seidel Method
+### [x] Gauss-Seidel Method
 
 - Iterative methods for solving systems of linear equations.
 
-### [] Gaussian Elimination
+### [x] Gaussian Elimination
 
 - Used to solve systems of linear equations, especially useful for large matrices.
 
-### [] LU Decomposition
+### [x] LU Decomposition
 
 - Used to solve systems of linear equations, especially useful for large matrices.
 
