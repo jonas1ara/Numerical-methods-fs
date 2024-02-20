@@ -2,8 +2,6 @@
 
 ![Euler](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Euler_method.svg/220px-Euler_method.svg.png)
 
-# Euler Method README
-
 ## Introduction
 This repository contains an implementation of the Euler method in the F# programming language. The Euler method is a simple numerical technique used for solving ordinary differential equations (ODEs) with an initial value problem. It is a first-order numerical method that approximates the solution by stepping through the solution space with small increments.
 
