@@ -1,7 +1,5 @@
 # Linear interpolation method
 
-# Linear interpolation method
-
 ![LI](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/LinearInterpolation.svg/300px-LinearInterpolation.svg.png)
 
 ## Introduction
