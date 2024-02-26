@@ -7,7 +7,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 ## Calculus:
 
-### [Bisection Method]()
+### [Bisection Method](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Bisection-method)
 
 - Another technique to find roots of equations, especially useful when working with continuous functions on closed intervals.
 
