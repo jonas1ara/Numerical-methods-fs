@@ -19,7 +19,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Numerical differentiation is a technique used to approximate the derivative of a function at a specific point by employing finite differences. 
 
-### [Numerical integration (Rectangle rule)]()
+### [Numerical integration (Rectangle rule)](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Numerical-integration-rectangle-rule)
 
 - The rectangle rule is the simplest method of approximating the value of a definite integral. It approximates the region under the graph of the function `f(x)` as a single rectangle.
 
