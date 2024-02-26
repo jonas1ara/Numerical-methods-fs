@@ -15,7 +15,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Used to find roots of nonlinear equations. It is a popular technique for solving optimization problems.
 
-### [Numerical differentiation]()
+### [Numerical differentiation](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Numerical-differentiation)
 
 - Numerical differentiation is a technique used to approximate the derivative of a function at a specific point by employing finite differences. 
 
