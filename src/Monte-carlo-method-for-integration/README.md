@@ -1,3 +1,3 @@
 # Monte Carlo method for integration
 
-![MC integration](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NumInt-MC.png/400px-NumInt-MC.png)
+![MC integration](https://miro.medium.com/v2/resize:fit:720/format:webp/1*CmlQbGdECPyfM5vZeEkHUg.png)
