@@ -27,7 +27,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - The trapezoidal rule is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a trapezoid and calculating its area.
 
-### [Numerical integration (Simpson's rule)]()
+### [Numerical integration (Simpson's rule)](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Numerical-integration-simpson-rule)
 
 - Simpson's rule is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of parabolic curves and calculating their areas.
 
