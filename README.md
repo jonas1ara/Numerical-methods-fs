@@ -23,7 +23,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - The rectangle rule is the simplest method of approximating the value of a definite integral. It approximates the region under the graph of the function `f(x)` as a single rectangle.
 
-### [Numerical integration (Trapezoidal rule)]()
+### [Numerical integration (Trapezoidal rule)](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Numerical-integration-trapezoidal-rule)
 
 - The trapezoidal rule is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a trapezoid and calculating its area.
 
