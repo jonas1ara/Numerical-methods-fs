@@ -18,6 +18,7 @@ To run the provided code, ensure you have F# installed on your system. You can i
 dotnet run
 ```
 
+```
 open System
 
 // Function to calculate the integral of a function using the Monte Carlo method
