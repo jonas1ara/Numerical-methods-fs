@@ -1,8 +1,7 @@
-# Monte Carlo method for PI
+# Monte Carlo Method for π
 
 ![Monte Carlo PI](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Estimacion_de_Pi_por_Montercarlo.gif/296px-Estimacion_de_Pi_por_Montercarlo.gif)
 
-# Monte Carlo Method for π
 
 ## Introduction
 This repository contains an implementation of the Monte Carlo method in the F# programming language to estimate the value of π (pi). The Monte Carlo method is a statistical technique that uses random sampling to obtain numerical results. In this implementation, we use the method to estimate π by generating random points within a square and determining the proportion that fall within a quarter of a unit circle.
