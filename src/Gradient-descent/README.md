@@ -2,8 +2,6 @@
 
 ![GD](https://upload.wikimedia.org/wikipedia/commons/7/79/Gradient_descent.png)
 
-# Gradient Descent Method
-
 ## Introduction
 This repository contains an implementation of the Gradient Descent method in the F# programming language. Gradient Descent is an optimization algorithm used to minimize the cost function of a model by iteratively adjusting its parameters. In this implementation, we apply the Gradient Descent method to find the optimal parameters for a linear regression model.
 
@@ -20,6 +18,8 @@ To run the provided code, ensure you have F# installed on your system. You can i
 dotnet run
 ```
 
+
+```fsharp
 open System
 
 // Define the cost function
