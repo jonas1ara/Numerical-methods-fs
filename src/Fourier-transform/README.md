@@ -2,8 +2,6 @@
 
 ![Fourier](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fourier_unit_pulse.svg/300px-Fourier_unit_pulse.svg.png)
 
-# Fourier Transform Method
-
 ## Introduction
 This repository contains an implementation of the Fourier transform method in the F# programming language. The Fourier transform is a mathematical technique used to decompose a function of time (or a signal) into its constituent frequencies. It has applications in various fields, including signal processing, image processing, and quantum mechanics.
 
@@ -20,6 +18,9 @@ To run the provided code, ensure you have F# installed on your system. You can i
 dotnet run
 ```
 
+# Code explanation 
+
+```fsharp
 open System
 open System.Numerics
 
