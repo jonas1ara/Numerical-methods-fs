@@ -18,7 +18,7 @@ To run the provided code, ensure you have F# installed on your system. You can i
 dotnet run
 ```
 
-# Code explanation 
+## Code explanation 
 
 ```fsharp
 open System
