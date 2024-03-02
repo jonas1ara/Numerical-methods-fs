@@ -33,11 +33,11 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 ## Linear algebra:
 
-### [Jacobi Method]() 
+### [Jacobi Method](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Jacobi-method) 
 
 - Iterative methods for solving systems of linear equations.
 
-### [Gauss-Seidel Method](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Jacobi-method)
+### [Gauss-Seidel Method]()
 
 - Iterative methods for solving systems of linear equations.
 
