@@ -45,7 +45,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Used to solve systems of linear equations, especially useful for large matrices.
 
-### [LU Decomposition]()
+### [LU Decomposition](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/LU-decomposition)
 
 - Used to solve systems of linear equations, especially useful for large matrices.
 
