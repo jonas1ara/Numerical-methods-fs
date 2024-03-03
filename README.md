@@ -41,7 +41,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Iterative methods for solving systems of linear equations.
 
-### [Gaussian Elimination]()
+### [Gaussian Elimination](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Gaussian-elimination)
 
 - Used to solve systems of linear equations, especially useful for large matrices.
 
