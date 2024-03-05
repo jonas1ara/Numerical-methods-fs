@@ -51,7 +51,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 ## Differential equations:
 
-### [Euler's Method](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Euler-Method)
+### [Euler's Method](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Euler-method)
 
 - Used to solve ordinary differential equations, which model changes in variables over time.
 
