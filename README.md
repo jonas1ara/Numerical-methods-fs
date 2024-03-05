@@ -61,7 +61,7 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 ## Probability and statistics:
 
-### [Linear interpolation]()
+### [Linear interpolation](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Linear-interpolation-method)
 
 - Techniques to estimate intermediate values between known data points (interpolation) or to fit a curve to a dataset (regression).
 
