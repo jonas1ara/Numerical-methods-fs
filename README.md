@@ -80,11 +80,11 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 ## Optimization:
 
-### [Fourier Transform]()
+### [Fourier Transform](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Fourier-transform)
 
 - Used to transform signals between the time domain and the frequency domain, essential in signal processing and dynamic systems analysis.
 
-### [Gradient descent]()
+### [Gradient descent](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Gradient-descent)
 
 - Gradient descent to find minima or maxima of functions.
 
