@@ -69,12 +69,12 @@ _Fsharp makes it easy to use numerical methods even for Van Gogh_
 
 - Techniques to estimate intermediate values between known data points (interpolation) or to fit a curve to a dataset (regression).
 
-### [Monte Carlo Method for integration]()
+### [Monte Carlo Method for integration](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Monte-carlo-method-for-integration)
 
 - A statistical-numerical approach for simulation and problem-solving through the generation of random numbers for integration. Monte Carlo integration is a technique for approximating the definite integral. It approximates the region under the graph of the function `f(x)` as a series of random points and calculating their areas.
 
 
-### [Monte Carlo Method for calculate PI]()
+### [Monte Carlo Method for calculate PI](https://github.com/jonas1ara/Numerical-methods-fs/tree/main/src/Monte-carlo-method-for-PI)
 
 - A statistical-numerical approach for simulation and problem-solving through the generation of random numbers for approximating the value of π.
 
